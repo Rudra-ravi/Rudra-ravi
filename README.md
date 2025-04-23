@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Ravikumar ! 👋</h1>
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/940b36e2-963d-4e6b-bda2-903ea05c5fe2)
-
+  <img src="https://github.com/user-attachments/assets/940b36e2-963d-4e6b-bda2-903ea05c5fe2" alt="Profile Image">
 </p>
 
 
