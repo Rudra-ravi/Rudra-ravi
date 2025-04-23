@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ravikumar ! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/940b36e2-963d-4e6b-bda2-903ea05c5fe2" alt="Profile Image">
+  <img src="https://github.com/user-attachments/assets/e650cbed-1572-4350-92b4-b357b87097d9" alt="Banner Image">
 </p>
 
 
