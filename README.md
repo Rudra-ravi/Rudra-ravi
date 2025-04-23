@@ -47,20 +47,3 @@
 </p>
 
 ---
-
-### 📚 Featured Projects:
-
-- 🌐 **[Portfolio Website](https://ravikumar-dev.me/)**: Personal portfolio website built with **HTML, CSS, JavaScript** and hosted on GitHub Pages.
-
----
-
-### 📢 Let's Connect!
-
-Feel free to reach out if you'd like to collaborate on projects, exchange knowledge, or chat about technology and innovation.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravi-kumar-e"><img src="https://img.shields.io/badge/LinkedIn-Ravikumar%20E-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://medium.com/@Ravikumar-e"><img src="https://img.shields.io/badge/Medium-Ravikumar%20E-black?logo=medium&logoColor=white"></a>
-  <a href="https://ravikumar-dev.me/"><img src="https://img.shields.io/badge/Portfolio-Ravikumar%20E-4CAF50?logo=google-chrome&logoColor=white"></a>
-  <a href="mailto:ravikumar@ravikumar-dev.me"><img src="https://img.shields.io/badge/Email-ravikumar@ravikumar--dev.me-D14836?logo=gmail&logoColor=white"></a>
-</p>
