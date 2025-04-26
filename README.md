@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ravikumar ! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a720a0d1-0f64-48a3-a782-5057be474dd7" alt="Banner Image">
+  <img src="https://github.com/user-attachments/assets/323ea6f5-8be0-4766-a7ca-01602d3544f9" alt="Banner Image" height="20%">
 </p>
 
 
@@ -49,3 +49,20 @@
 </p>
 
 ---
+
+### 🔥 Inspiration:
+<table>
+<tr>
+<td width="50%">
+<img src="https://github.com/user-attachments/assets/a5434f88-26e0-4aea-b235-bbfaa6647d3a" width="100%">
+</td>
+<td width="50%">
+<p>I'm passionate about technology, coding, and building creative projects. I have been exploring new technologies ever since. I believe in continuous learning and sharing knowledge with the community. Welcome to my profile!</p>
+</td>
+</tr>
+</table>
+
+
+---
+
+
