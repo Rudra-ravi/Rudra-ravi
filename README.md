@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I'm Ravikumar ! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e650cbed-1572-4350-92b4-b357b87097d9" alt="Banner Image">
+  <img src="https://github.com/user-attachments/assets/a720a0d1-0f64-48a3-a782-5057be474dd7" alt="Banner Image">
 </p>
+
+
 
 
 <p align="center">
