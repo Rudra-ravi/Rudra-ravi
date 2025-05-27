@@ -29,26 +29,61 @@
 - 🌱 Constantly learning and exploring **AI, Cloud Security, and IoT**
 
 ---
+### 🔨 Tech Stack & Tools
+<div align="center">
 
-### 🔧 Technologies & Tools:
+### Programming Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,dart,flutter,html,css,nextjs,nodejs&theme=dark" />
 
-- **Languages:** Python, C, C++, Dart, JavaScript
-- **Frameworks:** Flutter, Angular, Ionic, Bootstrap
-- **Cybersecurity:** SIEM Tools, Firewalls, Threat Intelligence, SOC Analysis, Vulnerability Assessment
-- **Development Tools:** Git, GitHub, Visual Studio Code, Figma
-- **Cloud & DevOps:** GitHub Actions, Docker, Cloudflare
-- **IoT & Embedded Systems:** ESP32, Arduino, MQTT
+### Development Tools & Platforms
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws,azure,vercel,linux&theme=dark" />
 
----
+### Databases & Storage
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase&theme=dark" />
 
-### 📈 GitHub Stats:
+<br>
 
+### 🔒 Security & Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-Ravi&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Ravi&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(45%) sepia(85%) saturate(2841%) hue-rotate(203deg) brightness(99%) contrast(101%);"/>
+&nbsp;&nbsp;
+<img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/metasploit.svg" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(25%) sepia(99%) saturate(3614%) hue-rotate(351deg) brightness(95%) contrast(108%);"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/paloaltonetworks.svg" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(43%) sepia(93%) saturate(1352%) hue-rotate(358deg) brightness(99%) contrast(107%);"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pfsense/pfsense-original.svg" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48"/>
 </p>
 
+### 🔧 IoT & Hardware
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(15%) sepia(99%) saturate(6558%) hue-rotate(358deg) brightness(96%) contrast(114%);"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adafruit.svg" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(0%) sepia(100%) saturate(7500%) hue-rotate(307deg) brightness(97%) contrast(143%);"/>
+</p>
+
+</div>
+
 ---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rudra-Ravi&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-Ravi&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-Ravi&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="49%"/>
+</div>
 
 ### 🔥 Inspiration:
 <table>
