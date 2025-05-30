@@ -45,13 +45,13 @@
 
 ### 🔒 Security & Analysis
 <p align="center">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(45%) sepia(85%) saturate(2841%) hue-rotate(203deg) brightness(99%) contrast(101%);"/>
+<img src="https://letsmakeitsimple.tech/wp-content/uploads/2023/05/wireshark.png" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(45%) sepia(85%) saturate(2841%) hue-rotate(203deg) brightness(99%) contrast(101%);"/>
 &nbsp;&nbsp;
-<img src="https://github.com/simple-icons/simple-icons/raw/develop/icons/metasploit.svg" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(25%) sepia(99%) saturate(3614%) hue-rotate(351deg) brightness(95%) contrast(108%);"/>
+<img src="https://atomrace.com/blog/wp-content/uploads/2017/10/metasploit-logo.png" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(25%) sepia(99%) saturate(3614%) hue-rotate(351deg) brightness(95%) contrast(108%);"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/paloaltonetworks.svg" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(43%) sepia(93%) saturate(1352%) hue-rotate(358deg) brightness(99%) contrast(107%);"/>
+<img src="https://www.pngrepo.com/png/331527/512/palo-alto-networks.png" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(43%) sepia(93%) saturate(1352%) hue-rotate(358deg) brightness(99%) contrast(107%);"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pfsense/pfsense-original.svg" width="48" height="48"/>
+<img src="https://toppng.com/public/uploads/preview/fsense-set-static-ip-for-a-specific-openvpn-client-firewall-pfsense-11563035057saouyckles.png" width="48" height="48"/>
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48"/>
 </p>
@@ -60,14 +60,15 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/espressif.svg" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(15%) sepia(99%) saturate(6558%) hue-rotate(358deg) brightness(96%) contrast(114%);"/>
+<img src="https://github.com/user-attachments/assets/b969cdbc-3ca9-4ca0-a58a-032f7574b6b7" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(15%) sepia(99%) saturate(6558%) hue-rotate(358deg) brightness(96%) contrast(114%);"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adafruit.svg" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(0%) sepia(100%) saturate(7500%) hue-rotate(307deg) brightness(97%) contrast(143%);"/>
+<img src="https://cdn-learn.adafruit.com/guides/images/000/000/570/medium800/AIO_LOGO.png" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(0%) sepia(100%) saturate(7500%) hue-rotate(307deg) brightness(97%) contrast(143%);"/>
 </p>
 
 </div>
+
 
 ---
 
