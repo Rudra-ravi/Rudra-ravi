@@ -36,7 +36,7 @@
 <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,dart,flutter,html,css,nextjs,nodejs&theme=dark" />
 
 ### Development Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws,azure,vercel,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws,azure,cloudflare, vercel,linux&theme=dark" />
 
 ### Databases & Storage
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase&theme=dark" />
