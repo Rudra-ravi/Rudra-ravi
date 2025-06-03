@@ -33,15 +33,23 @@
 <div align="center">
 
 ### Programming Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,dart,flutter,html,css,nextjs,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,dart,flutter,flask,html,css,nextjs,nodejs&theme=dark" />
 
 ### Development Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws,azure,cloudflare, vercel,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws,azure,cloudflare,vercel,linux,androidstudio&theme=dark" />
 
 ### Databases & Storage
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase&theme=dark" />
 
-<br>
+### CI/CD & Automation
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
+
+### 🤖 AI & Development Assistants
+<p align="center">
+<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="48" height="48"/>
+&nbsp;&nbsp;
+<img src="https://www.cursor.com/brand/icon.svg" width="48" height="48"/>
+</p>
 
 ### 🔒 Security & Analysis
 <p align="center">
@@ -67,6 +75,7 @@
 <img src="https://cdn-learn.adafruit.com/guides/images/000/000/570/medium800/AIO_LOGO.png" width="48" height="48" style="filter: brightness(0) saturate(100%) invert(0%) sepia(100%) saturate(7500%) hue-rotate(307deg) brightness(97%) contrast(143%);"/>
 </p>
 
+</div>
 </div>
 
 
