@@ -42,7 +42,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase&theme=dark" />
 
 ### CI/CD & Automation
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=githubactions,n8n&theme=dark" />
 
 ### 🤖 AI & Development Assistants
 <p align="center">
