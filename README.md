@@ -42,7 +42,8 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase&theme=dark" />
 
 ### CI/CD & Automation
-<img src="https://skillicons.dev/icons?i=githubactions,n8n&theme=dark" />
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" width="48" height="48"/>
 
 ### 🤖 AI & Development Assistants
 <p align="center">
