@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <em>Final year Electronics & Communication Engineering student | Cybersecurity Analyst | Flutter & Python Developer</em>
+  <em>Cybersecurity researcher with deep expertise in securing large-language-model (LLM) ecosystems, multicloud environments, and modern web applications. I blend offensive research with defensive engineering to uncover blind spots, translate findings into resilient architectures, and guide stakeholders in shipping secure, AI-driven products at scale.</em>
 </p>
 
 <p align="center">
