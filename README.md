@@ -103,7 +103,7 @@
 <img src="https://github.com/user-attachments/assets/a5434f88-26e0-4aea-b235-bbfaa6647d3a" width="100%">
 </td>
 <td width="50%">
-<p>I'm passionate about technology, coding, and building creative projects. I have been exploring new technologies ever since. I believe in continuous learning and sharing knowledge with the community. Welcome to my profile!</p>
+<p> Steve Jobs has long been my north star for creativity and persistence. His journey—​from a garage startup to reshaping entire industries—​proves that passion paired with uncompromising vision can rewrite what’s possible. I’m inspired by his knack for simplifying complexity, sweating every detail, and refusing to settle for “good enough.” These principles guide my own work: to stay curious, challenge conventions, and craft experiences that feel intuitively right. Whenever I need a spark, I revisit Jobs’ keynote clips and remind myself: think bigger, iterate fearlessly, and strive for that moment of pure “insanely great.”</p>
 </td>
 </tr>
 </table>
